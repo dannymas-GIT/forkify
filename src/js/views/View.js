@@ -1,5 +1,5 @@
 import icons from 'url:../../img/icons.svg';
-import { Fraction } from 'fractional';
+import { Fraction } from 'fracty';
 import { isArray } from 'core-js/stable/array';
 
 
